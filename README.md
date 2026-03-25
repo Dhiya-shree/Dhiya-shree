@@ -6,10 +6,7 @@
 
 **Building scalable, maintainable backend systems**
 
-[View My Repositories](https://github.com/Dhiya-shree?tab=repositories) • [LinkedIn](www.linkedin.com/in/
-shree-sandhiya
-Vanity URL name
-) • [Email](shreesandhiya08@gmail.com)
+[View My Repositories](https://github.com/Dhiya-shree?tab=repositories) • [LinkedIn](www.linkedin.com/in/shree-sandhiya) • [Email](shreesandhiya08@gmail.com)
 
 </div>
 
