@@ -439,8 +439,3 @@ Collection of basic HTML and TypeScript frontend projects.
 Aspiring to leverage comprehensive backend engineering expertise to architect scalable, maintainable systems that solve real-world problems. Focused on continuous learning in emerging technologies like AI/ML integration, advanced microservices patterns, and cloud-native solutions while building impactful products.
 
 ---
-
-<div align="center">
-
-**Thanks for visiting! Feel free to explore my repositories and connect with me for collaboration opportunities.** 🚀
-</div>
