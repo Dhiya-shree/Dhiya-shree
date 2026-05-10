@@ -427,7 +427,7 @@ Collection of basic HTML and TypeScript frontend projects.
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [Shree Sandhiya](https://www.linkedin.com/in/shree-sandhiya)
+- 💼 **LinkedIn:** [Shree Sandhiya](https://www.linkedin.com/in/shreesandhiya08)
 - 📧 **Email:** [shreesandhiya08@gmail.com](mailto:shreesandhiya08@gmail.com)
 - 🐙 **GitHub:** [Dhiya-shree](https://github.com/Dhiya-shree)
 - 📜 **Certificates:** [View All Certificates](https://github.com/Dhiya-shree/Certificates)
@@ -439,3 +439,11 @@ Collection of basic HTML and TypeScript frontend projects.
 Aspiring to leverage comprehensive backend engineering expertise to architect scalable, maintainable systems that solve real-world problems. Focused on continuous learning in emerging technologies like AI/ML integration, advanced microservices patterns, and cloud-native solutions while building impactful products.
 
 ---
+
+<div align="center">
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me for collaboration opportunities.** 🚀
+
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=Dhiya-shree&show_icons=true&theme=default)
+
+</div>
