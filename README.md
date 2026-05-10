@@ -188,7 +188,3 @@ Comprehensive DSA implementations supporting strong algorithmic problem-solving 
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4285F4?style=for-the-badge&logoColor=white)
 
 </div>
-
----
-
-## 📊 Repository Overview
