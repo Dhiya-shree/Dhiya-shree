@@ -443,7 +443,4 @@ Aspiring to leverage comprehensive backend engineering expertise to architect sc
 <div align="center">
 
 **Thanks for visiting! Feel free to explore my repositories and connect with me for collaboration opportunities.** 🚀
-
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=Dhiya-shree&show_icons=true&theme=default)
-
 </div>
